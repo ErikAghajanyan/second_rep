@@ -7,3 +7,5 @@ dobavili text cherez vep browser
 dobavim text localnop
 
 taza branch sraqinq localov
+
+reshaem conflikt
