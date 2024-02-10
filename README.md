@@ -9,3 +9,5 @@ dobavim text localnop
 taza branch sraqinq localov
 
 reshaem conflikt
+
+reshaemm konflikt
